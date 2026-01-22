@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name Livery-Injector
-// @namespace https://github.com/Yicha25/Better-Lightting/
 // @version 1.0
 // @match https://www.geo-fs.com/geofs.php?v=*
 // @match https://*.geo-fs.com/geofs.php*
