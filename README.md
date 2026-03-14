@@ -5,7 +5,7 @@ Install a Userscript Manager: Download Tampermonkey or Violentmonkey for your br
 
 Create New Script: Open your manager's dashboard and click "Create a new script."
 
-Paste the Code: Delete any default text and paste the entire Livery-Injector.js code.
+Paste the Code: Delete any default text and paste the entire Main.js code.
 
 Save: Press Ctrl+S or click File > Save.
 
