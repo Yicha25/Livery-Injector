@@ -45,6 +45,6 @@ The livery is now saved to your permanent "Cloud" and applied to the aircraft.
   Wipe: Use the Delete All button to clear all data and reset the database (Warning: This cannot be undone).
 
 ## Technical Notes
-Storage Limit: Most browsers allow up to 500MB+ for IndexedDB, but it is recommended to keep an eye on the "Storage" readout at the bottom of the panel.
+Most browsers allow up to 500MB+ for IndexedDB, but it is recommended to keep an eye on the "Storage" readout at the bottom of the panel.
 
-Compatibility: Designed for GeoFS v3.0+, but includes fallback support for older versions.
+Designed for GeoFS v3.0+, but includes fallback support for older versions.
